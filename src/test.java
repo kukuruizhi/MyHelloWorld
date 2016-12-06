@@ -28,8 +28,6 @@ public class test {
 			System.out.println(r);
 		
 		
-		int test = 0;
-		
 		final StringBuffer a=new StringBuffer("immutable");
 		
 	}
