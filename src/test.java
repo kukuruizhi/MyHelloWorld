@@ -29,7 +29,7 @@ public class test {
 		
 		
 		int test = 0;
-		
+		int ttt = 0;
 		final StringBuffer a=new StringBuffer("immutable");
 		
 	}
