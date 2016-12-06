@@ -30,6 +30,7 @@ public class test {
 		
 		final StringBuffer a=new StringBuffer("immutable");
 		
+		int tt = 0;
 	}
 
 }
